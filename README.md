@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://t0ntin.github.io/single-price-grid-component-master2/)
+- Solution URL: [Check out my solution](https://t0ntin.github.io/single-price-grid-component-master2/)
 
 ## My process
 
