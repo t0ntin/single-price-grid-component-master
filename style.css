@@ -56,14 +56,14 @@ html {
 
 .bottom-container {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: wrap; 
+  /* don't need flex wrap for the children containers, only for the parent. */
 }
 
 .left {
   background-color: var(--PRIMARY-COLOR-CYAN);
   flex-grow: 1;
   padding: 30px;
-  flex-wrap: wrap;
 }
 
 .left h3 {
@@ -106,7 +106,6 @@ button:hover {
   background-color: var(--LIGHTER-CYAN);
   flex-grow: 1;
   padding: 30px;
-  flex-wrap: wrap;
 }
 
 .left h3, .right h3, .price, .left p, .right ul{
