@@ -11,7 +11,6 @@
   --SECONRDARY-COLOR-BRIGHT-YELLOW: hsl(71, 68%, 48%);
   --NEUTRAL-LIGHT-GRAY: hsl(204, 43%, 93%);
   --NEUTRAL-GRAYISH-BLUE: hsl(218, 22%, 67%);
-
 }
 
 html {
@@ -58,7 +57,6 @@ html {
 .bottom-container {
   display: flex;
   flex-wrap: wrap;
-
 }
 
 .left {
